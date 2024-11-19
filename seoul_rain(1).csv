@@ -1,4 +1,4 @@
-year,spot,temp(กษ),min temp(กษ),max temp(กษ),rain(mm)
+year,spot,temp(ยกร),min temp(ยกร),max temp(ยกร),rain(mm)
 "	1907",108,,,,126.6
 "	1908",108,10.4,5.8,15.7,1066.3
 "	1909",108,10.6,5.8,16,827
